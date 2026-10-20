@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "./附件",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "spellcheck": false
+}

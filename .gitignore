@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+._*
+
+# Obsidian device-specific state and trash
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/workspace-cache.json
+.trash/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key

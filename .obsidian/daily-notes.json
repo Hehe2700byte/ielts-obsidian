@@ -1,0 +1,6 @@
+{
+  "folder": "每日打卡",
+  "format": "YYYY-MM-DD/[打卡]",
+  "template": "模板/每日打卡",
+  "autorun": false
+}
